@@ -22,3 +22,8 @@ img {
     display: block;
     margin: auto;
 }
+
+.subheader {
+    font-weight: bold;
+    font-size: 20px;
+}
