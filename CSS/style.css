@@ -52,3 +52,11 @@ img {
     display: inline-block;
     margin: 10px;
 }
+
+#footer ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+}
